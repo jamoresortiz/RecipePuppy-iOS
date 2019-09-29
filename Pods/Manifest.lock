@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.9.0)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - EmptyDataSet-Swift (5.0.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9)
+  - AlamofireImage (~> 3.5.2)
+  - EmptyDataSet-Swift (~> 5.0.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireImage
+    - EmptyDataSet-Swift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 09328b80da49934038550074b9f7f9ca4f87e9ed
+
+COCOAPODS: 1.8.1
